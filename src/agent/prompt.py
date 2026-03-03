@@ -1,0 +1,5 @@
+MASK_PROMPT = """"""
+CLARIFY_PROMPT= """"""
+PLANNING_PROMPT = """"""
+TEXT_TO_SQL_PROMPT= """"""
+CRITIC_PROMPT = """"""
